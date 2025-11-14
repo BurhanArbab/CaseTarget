@@ -47,18 +47,24 @@ In November of 2013, Target Corporation was the subject of one of the largest cy
 Courses of Action
 
 1.	Improve Threat Detection and Incident Response 
-The first option would be to improve Target’s threat detection and incident response. Target lacked in their security monitoring as well as their response time which resulted in the breach occurring. They can start by immediately responding to FireEye’s detections they found even if it’s a false positive. They need an established monitoring team that has the proper training that is always surveilling the network for any suspicious activity. The only downside is the cost, but that won’t be a problem for Target and it’s the least they could do. 
+The first option would be to improve Target’s threat detection and incident response. Target lacked in their security monitoring as well as their response time which resulted in the breach occurring. They can start by immediately responding to FireEye’s detections they found even if it’s a false positive. They need an established monitoring team that has the proper training that is always surveilling the network for any suspicious activity. The only downside is the cost, but that won’t be a problem for Target and it’s the least they could do.
+
 Impact on Stakeholders
+
 Target’s IT and security team would see an immediate impact on workload and accountability. Customers will have less exposure to data theft and feel more protected when shopping at target. Target’s executive board will gain more trust among shareholders and the public. FireEye will have a greater workload but will be greatly beneficial for Target. 
 
 2.	Strengthen Data Protection and POS Security
 The second option is for Target to implement advanced encryption and network defense for its POS systems. With access Fazio had, it was able to connect to Target’s payment system which should never be the case. Target needs to install software that will encrypt any personal information whether it’s a card being swiped or someone signed up for their REDcard. Considering how outdated their network security was I can only assume their POS software is also outdated, which they need to upgrade with software updates and patch any holes in their system that can lead into their network.
+
 Impact on Stakeholders
+
 Customers will have more financial data protection and can restore their trust in Target. Target’s IT won’t be affected too much by this once the software is installed. Target’s executives will have to make a short-term investment but will benefit them more in the long run. 
 
 3.	Zero Trust Framework (Recommended Action)
-My recommended course of action would be to install a zero-trust framework that will enforce strict access controls for monitoring for all third-party vendors that are connected to the network. Implementing least privilege for vendors means they should only have access to systems that were cleared to them by the security team. Target should also implement multi-factor authentication to prevent any attackers trying to use any stolen credentials. 
+My recommended course of action would be to install a zero-trust framework that will enforce strict access controls for monitoring for all third-party vendors that are connected to the network. Implementing least privilege for vendors means they should only have access to systems that were cleared to them by the security team. Target should also implement multi-factor authentication to prevent any attackers trying to use any stolen credentials.
+ 
 Impact on Stakeholders
+
 Target’s IT team would have a greater workload but would have better control and access over their networks. Vendors will have more security requirements, but it will also strengthen their own systems. Customers will have more confidence in Target’s data protection and will have reduced risk of identity theft. 
 
 References
